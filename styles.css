@@ -2655,6 +2655,14 @@ textarea.is-invalid {
     linear-gradient(180deg, rgba(218, 242, 238, 0.56), rgba(244, 248, 247, 0));
 }
 
+.heading-line {
+  display: block;
+}
+
+.pricing-grid .plan {
+  font-size: 28px;
+}
+
 .hero-tags span {
   transition: transform 0.24s ease, box-shadow 0.24s ease, border-color 0.24s ease, background 0.24s ease;
 }
